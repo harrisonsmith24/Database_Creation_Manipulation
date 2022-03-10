@@ -1,0 +1,12 @@
+D:\C# program files\smith_cc5\smith_cc5\bin\Debug\smithMedical.mdf
+D:\C# program files\smith_cc5\smith_cc5\bin\Debug\smithMedical_log.ldf
+D:\C# program files\smith_cc5\smith_cc5\bin\Debug\smith_cc5.exe.config
+D:\C# program files\smith_cc5\smith_cc5\bin\Debug\smith_cc5.exe
+D:\C# program files\smith_cc5\smith_cc5\bin\Debug\smith_cc5.pdb
+D:\C# program files\smith_cc5\smith_cc5\obj\Debug\smith_cc5.csproj.AssemblyReference.cache
+D:\C# program files\smith_cc5\smith_cc5\obj\Debug\smith_cc5.Form1.resources
+D:\C# program files\smith_cc5\smith_cc5\obj\Debug\smith_cc5.Properties.Resources.resources
+D:\C# program files\smith_cc5\smith_cc5\obj\Debug\smith_cc5.csproj.GenerateResource.cache
+D:\C# program files\smith_cc5\smith_cc5\obj\Debug\smith_cc5.csproj.CoreCompileInputs.cache
+D:\C# program files\smith_cc5\smith_cc5\obj\Debug\smith_cc5.exe
+D:\C# program files\smith_cc5\smith_cc5\obj\Debug\smith_cc5.pdb

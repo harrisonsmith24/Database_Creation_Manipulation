@@ -1,0 +1,12 @@
+D:\C# program files\Smith_cc6\Smith_cc6\bin\Debug\smithMedical.mdf
+D:\C# program files\Smith_cc6\Smith_cc6\bin\Debug\smithMedical_log.ldf
+D:\C# program files\Smith_cc6\Smith_cc6\bin\Debug\Smith_cc6.exe.config
+D:\C# program files\Smith_cc6\Smith_cc6\bin\Debug\Smith_cc6.exe
+D:\C# program files\Smith_cc6\Smith_cc6\bin\Debug\Smith_cc6.pdb
+D:\C# program files\Smith_cc6\Smith_cc6\obj\Debug\Smith_cc6.csproj.AssemblyReference.cache
+D:\C# program files\Smith_cc6\Smith_cc6\obj\Debug\Smith_cc6.Form1.resources
+D:\C# program files\Smith_cc6\Smith_cc6\obj\Debug\Smith_cc6.Properties.Resources.resources
+D:\C# program files\Smith_cc6\Smith_cc6\obj\Debug\Smith_cc6.csproj.GenerateResource.cache
+D:\C# program files\Smith_cc6\Smith_cc6\obj\Debug\Smith_cc6.csproj.CoreCompileInputs.cache
+D:\C# program files\Smith_cc6\Smith_cc6\obj\Debug\Smith_cc6.exe
+D:\C# program files\Smith_cc6\Smith_cc6\obj\Debug\Smith_cc6.pdb

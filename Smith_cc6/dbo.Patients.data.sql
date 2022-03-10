@@ -1,0 +1,10 @@
+﻿SET IDENTITY_INSERT [dbo].[Patients] ON
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (1, N'Tiger Woods', N'112 Sage Circle', N'843-222-2222 ', N'twoods@email.com', CAST(1000.0000 AS Money))
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (2, N'John Rahm', N'244 Lily Ave', N'999-999-9999 ', N'jrahm@email.com', CAST(2000.0000 AS Money))
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (3, N'Billy Bob', N'566 Dama Ct', N'888-888-8888 ', N'bbob@email.com', CAST(4000.0000 AS Money))
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (4, N'Howard Nick', N'344 Right Way', N'101-987-9876 ', N'hnick@email.com', CAST(5000.0000 AS Money))
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (5, N'Rory Match', N'909 Cove Circlr', N'888-808-0088 ', N'rmatch@email.com', CAST(9000.0000 AS Money))
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (6, N'Rachel Bash', N'557 Rem Drive', N'232-444-5555 ', N'rbash@gmail.com', CAST(800.0000 AS Money))
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (7, N'Bert Kriesher', N'777 Hello Mellow', N'343-444-4444 ', N'bkrischer@gmail.com', CAST(100.0000 AS Money))
+INSERT INTO [dbo].[Patients] ([patientId], [patientName], [patientAddress], [patientPhone], [patientEmail], [pateintDeductibleLimit]) VALUES (8, N'Bash Rash', N'101 Night Court', N'788-000-0909 ', N'brash@gmail.com', CAST(3600.0000 AS Money))
+SET IDENTITY_INSERT [dbo].[Patients] OFF
